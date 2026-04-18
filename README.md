@@ -27,14 +27,32 @@ This project addresses this challenge by developing an interactive Power BI dash
 #  3.This project was designed to answer the following key questions:
 
 Which product categories generate the highest and lowest revenue?
+
+
 How do sales and profit vary across different regions?
+
+
 Which customer segment contributes the most to overall sales?
+
+
 What are the trends in sales performance over time?
+
+
 Which sub-categories and products are the top and bottom performers?
+
+
 Is profitability growing at the same rate as sales?
+
+
 How is revenue distributed geographically across regions?
+
+
 Which products or segments should be prioritised for growth?
+
+
 Are there signs of over-reliance on specific products or customers?
+
+
 How can sales performance be improved through better targeting and resource allocation?
 
 ---
@@ -73,7 +91,10 @@ The dashboard includes:
 
 #  5. Dataset Description
 Dataset Link
+
 https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
+
+
 The dataset contains sales transaction records including:
 
 - Order details (date, quantity, sales, profit)  
