@@ -1,6 +1,6 @@
 # DSA3050A-Shammar's-Endsemester
 Advanced Power BI project involving data cleaning, modelling, DAX, and interactive dashboard design for sales analytics.
-# 📊 Advanced Power BI Sales Analytics Dashboard
+# Advanced Power BI Sales Analytics Dashboard
 
 ##  Student Information
 - Fortune Shammar
@@ -71,7 +71,9 @@ The dashboard includes:
 
 ---
 
-# 📂 5. Dataset Description
+#  5. Dataset Description
+Dataset Link
+https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 The dataset contains sales transaction records including:
 
 - Order details (date, quantity, sales, profit)  
