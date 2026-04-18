@@ -1,11 +1,11 @@
-# DSA3050A-Shammar-s-Endsemester
+# DSA3050A-Shammar's-Endsemester
 Advanced Power BI project involving data cleaning, modelling, DAX, and interactive dashboard design for sales analytics.
 # 📊 Advanced Power BI Sales Analytics Dashboard
 
 ##  Student Information
-- Name: [Fortune Shammar]
-- Admission Number: [669891]
-- Course Code: DSA3050A
+- Fortune Shammar
+- 669891
+- DSA3050A
 
 ---
 
@@ -17,26 +17,25 @@ The solution includes data cleaning, data modelling, DAX calculations, and inter
 ---
 
 #  2. Problem Statement
-Organisations often struggle to extract meaningful insights from raw transactional data. The dataset contains large volumes of sales records that are not immediately useful for decision-making.
 
-The challenge is to transform this raw data into a structured, interactive dashboard that helps stakeholders understand:
-- sales performance trends
-- customer behaviour
-- product performance
-- regional distribution
-- profitability patterns
+Businesses generate large volumes of sales data across products, customers, and regions, but often struggle to transform this raw data into actionable insights. Without proper analytics, it becomes difficult to identify key revenue drivers, understand customer behaviour, or detect performance imbalances across regions and product categories.
+
+This project addresses this challenge by developing an interactive Power BI dashboard that enables stakeholders to analyse sales performance, profitability, and trends in order to support strategic decision-making.
 
 ---
 
-#  3. Objectives of the Project
-The main objectives of this project are:
+#  3.This project was designed to answer the following key questions:
 
-- To clean and transform raw sales data into a structured format suitable for analysis  
-- To build a relational data model using fact and dimension tables  
-- To develop DAX measures for advanced analytics such as profit margin, growth, and ranking  
-- To design an interactive Power BI dashboard for business decision-making  
-- To identify key insights, patterns, and trends in sales performance  
-- To provide actionable recommendations based on data analysis  
+Which product categories generate the highest and lowest revenue?
+How do sales and profit vary across different regions?
+Which customer segment contributes the most to overall sales?
+What are the trends in sales performance over time?
+Which sub-categories and products are the top and bottom performers?
+Is profitability growing at the same rate as sales?
+How is revenue distributed geographically across regions?
+Which products or segments should be prioritised for growth?
+Are there signs of over-reliance on specific products or customers?
+How can sales performance be improved through better targeting and resource allocation?
 
 ---
 
@@ -163,16 +162,6 @@ The dataset supports relational modelling and time-based analysis.
 This project demonstrates how Power BI can transform raw data into actionable business intelligence. Through data modelling, DAX calculations, and interactive visualisations, the dashboard provides valuable insights that support strategic decision-making and performance monitoring.
 
 ---
-
-#  13. Repository Structure
-
-DSA3050A-Advanced-PowerBI-Exam/
-│
-├── data/
-├── screenshots/
-├── powerbi/
-├── report/
-├── README.md
 
 ---
 
