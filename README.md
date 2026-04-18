@@ -188,5 +188,4 @@ This project demonstrates how Power BI can transform raw data into actionable bu
 
 ---
 
-# 🔗 14. Repository Link
-[Insert GitHub Repository Link Here]
+
